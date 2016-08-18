@@ -16,3 +16,13 @@ Describió conceptos como el bucle y la subrutina. Solía definirse a sí misma 
 Ada escribió un completo plan donde se describe el algoritmo necesario que permita calcular los valores de los números de Bernoulli utilizando dos bucles, demostrando las capacidades de bifurcación de la máquina analítica. Asimismo describió como realizar operaciones trigonométricas que hacían uso de variables también en la máquina analítica de Babbage. También definió el uso de tarjetas perforadas para programar la máquina de Babbage.
 Muerte
 Lady Ada Lovelace murió por las sangrías producidas por los médicos de la época en su absurdo intento de curar de esa manera un cáncer de útero que la consumía el 27 de noviembre de 1852 a la edad de 37 años. Fue enterrada por petición propia junto al padre que nunca conoció en la Iglesia de Santa María Magdalena en Hucknall, Nottingham.
+
+
+Algoritmo
+Un Algoritmo es una serie ordenada de instrucciones, pasos o procesos que llevan a la solución de un determinado problema. Los hay tan sencillos y cotidianos como seguir la receta del médico, abrir una puerta, lavarse las manos, etc; hasta los que conducen a la solución de problemas muy complejos.
+
+Los Algoritmos permiten describir claramente una serie de instrucciones que debe realizar el computador para lograr un resultado previsible. Vale la pena recordar que un procedimiento de computador consiste de una serie de instrucciones muy precisas y escritas en un lenguaje de programación que el computador entienda, en este curso utilizaremos el entorno de desarrollo de Scratch para programar nuestros algoritmos.
+
+En la naturaleza hay muchos procesos que puedes considerar como Algoritmos ya que tienen procedimientos y reglas. Incluso, muchas veces no somos conscientes de ellos.
+Por ejemplo, el proceso digestivo es un concepto de algoritmo con el que convivimos a diario sin que nos haga falta una definición precisa de este proceso. El hecho de que conozcamos cómo funciona el sistema digestivo, no implica que los alimentos que consumimos nos alimenten más o menos. La familiaridad de lo que sucede día a día nos impide ver muchos algoritmos que pasan a nuestro alrededor. Procesos naturales como la gestación, las estaciones, la circulación sanguínea, los ciclos planetarios, etc, son algoritmos naturales que
+generalmente pasan desapercibidos.
